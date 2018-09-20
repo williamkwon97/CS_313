@@ -1,3 +1,10 @@
+'''
+For the purposes of this programming assignment convert the message that you are asked to encode or decode to lower case.
+You will only be encoding or decoding the lower case letters of the alphabet. Punctuation marks, digits and spaces remain 
+untouched - that is, you will leave these characters in the string as is. For example, if you were asked to encrypt the string
+"123-45-6789" then the encrypted string would still be "123-45-6789". Similarly for the decryption. All punctuation marks, digits,
+and spaces will be returned as is in their original place in the string.1
+'''
 # File: TestCipher.py
 
 #  Description: Test Cipher and Decipher

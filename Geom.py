@@ -1,4 +1,8 @@
-
+'''This assignment is on object oriented programming.
+You will be developing several classes that are fundamental in
+Geometry - Point, Circle, and Rectangle. In main() you will test
+the various functions that you have written for the classes. Do 
+not change the names of the methods, attributes, or arguments.'''
 #  File: Geom.py
 
 #  Description: Using python to calculate Geometry

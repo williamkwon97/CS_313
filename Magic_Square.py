@@ -1,4 +1,15 @@
 '''
+A n x n matrix that is filled with the numbers 1, 2, 3, ..., n² is a magic square if the sum of the elements in each row,
+ in each column, and in the two diagonals is the same value.
+
+Implement the following algorithm to construct the magic n-by-n squares. This algorithm works only if n is odd.
+
+Place a 1 in the middle of the bottom row.
+After k has been placed in the (i, j) square, place k+1 into the square to the right and down, wrapping around the borders.
+However, if the square to the right and down has already been filled, or if you are in the lower right corner, then you must move 
+to the square straight up (from the last square that you were on) instead.
+
+'''
   File: MagicSquare.py
 
   Description:Generate Magic Square
