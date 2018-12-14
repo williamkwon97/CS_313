@@ -1,0 +1,38 @@
+14
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+21
+m q 1
+m r 1
+m x 1
+n o 1
+n q 1
+n u 1
+o r 1
+o s 1
+o v 1
+p o 1
+p s 1
+p z 1
+q t 1
+r u 1
+r y 1
+s r 1
+u t 1
+v w 1
+v x 1
+w z 1
+y v 1
+

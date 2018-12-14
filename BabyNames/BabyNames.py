@@ -1,15 +1,3 @@
-'''
-
-Complete a program that allows a user to query a data base of the 1000
- most popular baby names in the United States per decade for the past 
- 1 decades under the constraints described below. As always,
-  you may add helper functions and should do so to provide structure to
-   the program and reduce redundancy. One additional constraint:
-    You must use a Dictionary in the solution. You are encouraged to use
-    unctions in the String, List and Dictionary classes to make the program
-     easier to write. The Dictionary class has lots of functions that can make 
-     your job easier and one of the goals of this assignment is to learn those functions.
-'''
 #  File: BabyNames.py
 
 #  Description:  allow a user to query a data base of the 1000 most popular baby names in the United States per decade for the past 11 decades
